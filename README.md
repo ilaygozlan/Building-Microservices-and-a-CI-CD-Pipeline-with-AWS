@@ -48,7 +48,8 @@ The pipeline automates every stage of the software delivery process — from **d
 
 ## 🧱 Architecture Diagram
 
-![AWS CI/CD Architecture](A_diagram_illustrates_a_cloud-based_Continuous_Int.png)
+![AWS CI/CD Architecture](<img width="1536" height="1024" alt="ChatGPT Image Oct 6, 2025, 07_26_27 AM" src="https://github.com/user-attachments/assets/ebb2ca3e-e3d8-4fb7-98de-efb0628e992a" />
+)
 
 ---
 
